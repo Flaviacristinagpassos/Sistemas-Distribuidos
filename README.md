@@ -1,5 +1,6 @@
 # Chat Distribuído com Flask-SocketIO
-![chat funcionando](.img/chat.png)
+
+![chat](https://github.com/user-attachments/assets/d14ed128-7a04-4488-95e4-c74d028d0eae)
 
 
 ## Descrição
